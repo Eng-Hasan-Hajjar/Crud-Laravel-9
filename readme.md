@@ -73,5 +73,5 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 ## screen
 <div>
-   - [view](https://github.com/Eng-Hasan-Hajjar/Crud-Laravel-9/blob/main/screenShoot/view.PNG)
+  <img src="screenShoot\view.PNG"/>
 </div>
